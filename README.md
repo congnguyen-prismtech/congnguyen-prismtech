@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 Wanna to Play?
+![dragon](https://github.com/user-attachments/assets/18a9a2c9-2c4f-4eba-9f1f-616f402468fd)
 
 <!--
 **congnguyen-prismtech/congnguyen-prismtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
